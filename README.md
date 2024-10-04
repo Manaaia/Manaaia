@@ -5,7 +5,7 @@
 - 🔭 **Job**: Currently working on building highly specialized tools at the [KNPLabs company](https://knplabs.com/en/).
 
 ## :bulb: How I do it
-- :sparkles: **Quality**: Aiming for the best quality code possible, so here come lots of reviews and tests.
+- :sparkles: **Quality**: Aiming for the best quality code possible, so here comes lots of reviews and tests.
 - :mag: **Design Patterns**: Always curious to discover new ones and see how and why they came to existence. I love the "oh! That's smart! Let me try this" excitement it brings me.
 - :mortar_board: **Learning**: Beside work I use personal projects to experiment with technologies I am not familiar with or to improve my skills on some tools.
 
