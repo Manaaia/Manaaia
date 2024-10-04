@@ -15,7 +15,6 @@
 
 ## What I work with:
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,react,redux,symfony,docker,git)](https://skillicons.dev)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
 ## What I am learning:
 [![My Skills](https://skillicons.dev/icons?i=nextjs,python,arduino)](https://skillicons.dev)
