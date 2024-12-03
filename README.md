@@ -14,17 +14,10 @@
 -	:headphones: I work with Lofi, Metal or Blues in my ears depending on the mood
 
 ## What I work with:
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,react,redux,symfony,docker,git,mysql)](https://skillicons.dev)
+![PHP](https://skillicons.dev/icons?i=php "PHP") ![Javascript](https://skillicons.dev/icons?i=js "Javascript") ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") ![React](https://skillicons.dev/icons?i=react "React") ![Redux](https://skillicons.dev/icons?i=redux "Redux") ![Symfony](https://skillicons.dev/icons?i=symfony "Symfony") ![Docker](https://skillicons.dev/icons?i=docker "Docker") ![Git](https://skillicons.dev/icons?i=git "Git") ![MySql](https://skillicons.dev/icons?i=mysql "MySql")
 
 ## What I am learning:
 ![NextJS](https://skillicons.dev/icons?i=nextjs "NextJS") ![Arduino](https://skillicons.dev/icons?i=arduino "Arduino") ![Godot](https://skillicons.dev/icons?i=godot "Godot")
-
-<div class="column">
-  <div class="row">
-    <img align="left" alt="Next.js" title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
-    <img align="left" alt="Arduino" title="Arduino" src="https://skillicons.dev/icons?i=arduino" />
-  </div>
-</div>
 
 
 <!--
