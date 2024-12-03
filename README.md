@@ -11,7 +11,7 @@
 
 ## ⚡ Fun facts
 -	:smirk_cat: I have a cat that likes to walk on my keyboard when he wants somethal,q;clezfdqsncmqld;lqfns w qs; (rhoo this cat!)
--	:headphones: I work with Lofi or Metal in my ears depending on the mood
+-	:headphones: I work with Lofi, Metal or Blues in my ears depending on the mood
 
 ## What I work with:
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,react,redux,symfony,docker,git,mysql)](https://skillicons.dev)
