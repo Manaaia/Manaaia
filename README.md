@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,react,redux,symfony,docker,git,mysql)](https://skillicons.dev)
 
 ## What I am learning:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,python,arduino,godot)](https://skillicons.dev)
+![NextJS](https://skillicons.dev/icons?i=nextjs) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Godot](https://skillicons.dev/icons?i=godot)
 
 
 <!--
