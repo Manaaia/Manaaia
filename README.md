@@ -14,7 +14,8 @@
 -	:headphones: I work with Lofi, Metal or Blues in my ears depending on the mood
 
 ## What I work with:
-![PHP](https://skillicons.dev/icons?i=php "PHP") ![Javascript](https://skillicons.dev/icons?i=js "Javascript") ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") ![React](https://skillicons.dev/icons?i=react "React") ![Redux](https://skillicons.dev/icons?i=redux "Redux") ![Symfony](https://skillicons.dev/icons?i=symfony "Symfony") ![Docker](https://skillicons.dev/icons?i=docker "Docker") ![Git](https://skillicons.dev/icons?i=git "Git") ![MySql](https://skillicons.dev/icons?i=mysql "MySql") ![Traefik](https://skillicons.dev/icons?i=traefik "Traefik") ![GraphQL](https://skillicons.dev/icons?i=graphql "GraphQL")
+![PHP](https://skillicons.dev/icons?i=php "PHP") ![Javascript](https://skillicons.dev/icons?i=js "Javascript") ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") ![React](https://skillicons.dev/icons?i=react "React") ![Redux](https://skillicons.dev/icons?i=redux "Redux") ![Symfony](https://skillicons.dev/icons?i=symfony "Symfony") ![Docker](https://skillicons.dev/icons?i=docker "Docker") ![Git](https://skillicons.dev/icons?i=git "Git") ![MySql](https://skillicons.dev/icons?i=mysql "MySql") ![GraphQL](https://skillicons.dev/icons?i=graphql "GraphQL") <img src="https://github.com/user-attachments/assets/36a29713-9b1f-4345-b05d-975bd5a2de15" width="45" title="Traefik" />
+
 
 ## What I am learning:
 ![NextJS](https://skillicons.dev/icons?i=nextjs "NextJS") ![Arduino](https://skillicons.dev/icons?i=arduino "Arduino") ![Godot](https://skillicons.dev/icons?i=godot "Godot")
