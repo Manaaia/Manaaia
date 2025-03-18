@@ -7,14 +7,14 @@
 ## :bulb: How I do it
 - :sparkles: **Quality**: Aiming for the best quality code possible, so here comes lots of reviews and tests.
 - :mag: **Design Patterns**: Always curious to discover new ones and see how and why they came to existence. I love the "oh! That's smart! Let me try this" excitement it brings me.
-- :mortar_board: **Learning**: I am currently working on a dockerized symfony - react boilerplate to improve and experiment with tools like Docker, Traefik, Dependabot, new tests and linters tools...
+- :mortar_board: **Learning**: I am currently working on a dockerized symfony - react boilerplate
 
 ## ⚡ Fun facts
 -	:smirk_cat: I have a cat that likes to walk on my keyboard when he wants somethal,q;clezfdqsncmqld;lqfns w qs; (rhoo this cat!)
 -	:headphones: I work with Lofi, Metal or Blues in my ears depending on the mood
 
 ## What I work with:
-![PHP](https://skillicons.dev/icons?i=php "PHP") ![Javascript](https://skillicons.dev/icons?i=js "Javascript") ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") ![React](https://skillicons.dev/icons?i=react "React") ![Redux](https://skillicons.dev/icons?i=redux "Redux") ![Symfony](https://skillicons.dev/icons?i=symfony "Symfony") ![Docker](https://skillicons.dev/icons?i=docker "Docker") ![Git](https://skillicons.dev/icons?i=git "Git") ![MySql](https://skillicons.dev/icons?i=mysql "MySql")
+![PHP](https://skillicons.dev/icons?i=php "PHP") ![Javascript](https://skillicons.dev/icons?i=js "Javascript") ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") ![React](https://skillicons.dev/icons?i=react "React") ![Redux](https://skillicons.dev/icons?i=redux "Redux") ![Symfony](https://skillicons.dev/icons?i=symfony "Symfony") ![Docker](https://skillicons.dev/icons?i=docker "Docker") ![Git](https://skillicons.dev/icons?i=git "Git") ![MySql](https://skillicons.dev/icons?i=mysql "MySql") ![Traefik](https://skillicons.dev/icons?i=traefik "Traefik") ![GraphQL](https://skillicons.dev/icons?i=graphql "GraphQL")
 
 ## What I am learning:
 ![NextJS](https://skillicons.dev/icons?i=nextjs "NextJS") ![Arduino](https://skillicons.dev/icons?i=arduino "Arduino") ![Godot](https://skillicons.dev/icons?i=godot "Godot")
